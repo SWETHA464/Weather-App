@@ -28,17 +28,11 @@ Weather API - Providing real-time weather data
 
 Installation & Setup 🏗️
 
-Clone the repository:
+Clone the repository: git clone https://github.com/swetha464/weather-app.git
 
-git clone https://github.com/swetha464/weather-app.git
+Navigate to the project directory: cd weather-app
 
-Navigate to the project directory:
-
-cd weather-app
-
-Open index.html in your browser:
-
-open index.html
+Open index.html in your browser: open index.html
 
 or simply open the file manually.
 
