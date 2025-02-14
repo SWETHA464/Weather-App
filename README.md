@@ -51,6 +51,7 @@ Replace YOUR_API_KEY in the JavaScript file with your actual API key:
 const apiKey = 'YOUR_API_KEY';
 
 Screenshots 📸
+
 ![image](https://github.com/user-attachments/assets/23e19e85-5e3d-4967-a5ea-bf38ec56fdef)
 ![image](https://github.com/user-attachments/assets/d2fa5323-d22a-4fa5-abc5-5672623aa3cd)
 ![image](https://github.com/user-attachments/assets/234dd5b7-6600-4e04-a0e2-6b9b1d155dc5)
